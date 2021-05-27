@@ -2,7 +2,9 @@
 
 #define _QWERTY 0
 #define _LOWER 1
-#define _RAISE 2
+#define _MID 2
+#define _RAISE 3
+
 #define _ADJUST 16
 
 #define KC_CUT   G(KC_X)
@@ -15,6 +17,7 @@
 enum custom_keycodes {
   QWERTY = SAFE_RANGE,
   LOWER,
+  MID,
   RAISE,
   ADJUST,
 };
