@@ -35,5 +35,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
 
-#define AUTO_SHIFT_TIMEOUT 175
-#define NO_AUTO_SHIFT_ALPHA
+#define AUTO_SHIFT_TIMEOUT 250
+// #define NO_AUTO_SHIFT_ALPHA
