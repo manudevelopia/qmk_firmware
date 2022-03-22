@@ -1,0 +1,4 @@
+MCU = atmega32u4
+
+ENCODER_ENABLE = yes
+TAP_DANCE_ENABLE = yes
