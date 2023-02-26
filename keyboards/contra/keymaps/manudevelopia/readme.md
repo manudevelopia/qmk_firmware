@@ -1,2 +1,2 @@
-# The Default Contra Layout
+# The Developia Contra Layout
 
